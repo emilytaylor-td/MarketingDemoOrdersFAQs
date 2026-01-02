@@ -6,7 +6,7 @@
         "status": "Shipped",
         "carrier": "UPS",
         "tracking": "1Z999AA10123456784",
-        "tracking link": "trackinglink.com/1Z999AA10123456784",
+        "trackingLink": "trackinglink.com/1Z999AA10123456784",
         "estimatedDelivery": "3 days",
         "membershipTier": "Gold Medallion Member",
         "deliveryAddress": {
