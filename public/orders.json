@@ -1,0 +1,95 @@
+[
+    {
+        "id": "1001",
+        "email": "ben@example.com",
+        "phone": "+14159121332",
+        "status": "Shipped",
+        "carrier": "UPS",
+        "tracking": "1Z999AA10123456784",
+        "tracking link": "trackinglink.com/1Z999AA10123456784",
+        "estimatedDelivery": "3 days",
+        "membershipTier": "Gold Medallion Member",
+        "deliveryAddress": {
+            "name": "Ben Franklin",
+            "line1": "123 Lightning St",
+            "line2": "Apt 12B",
+            "city": "San Francisco",
+            "region": "CA",
+            "postal": "94105",
+            "country": "US"
+        },
+        "items": [
+            {
+                "sku": "KTL-001",
+                "itemName": "Model X Smart Kettle",
+                "description": "App-connected electric kettle with precision temperature control.",
+                "cost": 129.99,
+                "qty": 1
+            },
+            {
+                "sku": "EAR-201",
+                "itemName": "Wireless Earbuds Pro",
+                "description": "Noise cancelling earbuds with charging case.",
+                "cost": 179.00,
+                "qty": 1
+            },
+            {
+                "sku": "MUG-310",
+                "itemName": "Smart Mug",
+                "description": "Temperature-controlled ceramic mug.",
+                "cost": 99.00,
+                "qty": 1
+            },
+            {
+                "sku": "SPK-120",
+                "itemName": "Bluetooth Speaker Mini",
+                "description": "Portable speaker with 12-hour battery life.",
+                "cost": 59.95,
+                "qty": 1
+            },
+            {
+                "sku": "CHG-045",
+                "itemName": "USB-C Fast Charger 45W",
+                "description": "Compact GaN charger with USB-C PD.",
+                "cost": 39.99,
+                "qty": 1
+            }
+        ]
+    },
+    {
+        "id": "1002",
+        "email": "george@example.com",
+        "phone": "+19143503686",
+        "status": "Processing",
+        "carrier": "not available",
+        "tracking": "not available",
+        "tracking link": "not available",
+        "estimatedDelivery": "not available",
+        "membershipTier": "Silver Elite Member",
+        "deliveryAddress": {
+            "name": "George Washington",
+            "line1": "77 Presidential Ave",
+            "line2": "",
+            "city": "New York",
+            "region": "NY",
+            "postal": "10016",
+            "country": "US"
+        },
+        "items": [
+            {
+                "sku": "KTL-001",
+                "itemName": "Model X Smart Kettle",
+                "description": "App-connected electric kettle with precision temperature control.",
+                "cost": 129.99,
+                "qty": 1
+            },
+            {
+                "sku": "THM-220",
+                "itemName": "Smart Thermometer",
+                "description": "Bluetooth kitchen thermometer with app alerts.",
+                "cost": 49.00,
+                "qty": 1
+            }
+        ]
+    }
+]
