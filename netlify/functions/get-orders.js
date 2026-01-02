@@ -1,4 +1,4 @@
-const orders = require("../../orders.json");
+const orders = require("../../public/orders.json");
 
 const CORS_HEADERS = {
   "Access-Control-Allow-Origin": "*",
