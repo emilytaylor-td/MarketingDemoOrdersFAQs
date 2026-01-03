@@ -1,0 +1,38 @@
+[
+    {
+        "accountId": "A1001",
+        "name": "Ben Franklin",
+        "email": "ben@example.com",
+        "phone": "+14159121332",
+        "membershipTier": "Gold Medallion Member",
+        "billingAddress": {
+            "line1": "123 Lightning St",
+            "line2": "Apt 12B",
+            "city": "San Francisco",
+            "region": "CA",
+            "postal": "94105",
+            "country": "US"
+        },
+        "balanceDue": 86.14,
+        "dueDate": "2 weeks",
+        "accountType": "Residential"
+    },
+    {
+        "accountId": "A1002",
+        "name": "George Washington",
+        "email": "george@example.com",
+        "phone": "+19143503686",
+        "membershipTier": "Silver Elite Member",
+        "billingAddress": {
+            "line1": "77 Presidential Ave",
+            "line2": "",
+            "city": "New York",
+            "region": "NY",
+            "postal": "10016",
+            "country": "US"
+        },
+        "balanceDue": 142.56,
+        "dueDate": "5 days",
+        "accountType": "Residential"
+    }
+]
